@@ -1,0 +1,5 @@
+Vardas1,1000,1,man
+Vardas2,2000,2,man
+Vardas3,3000,3,women
+Vardas4,4000,4,women
+Vardas5,5000,5,man
