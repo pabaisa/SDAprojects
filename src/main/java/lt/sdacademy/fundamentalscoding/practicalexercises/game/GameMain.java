@@ -29,7 +29,7 @@ public class GameMain {
 
 
     private static String word() {
-        String line = "bbaba";
+        String line = "xxxx";
         try (BufferedReader br = new BufferedReader(new FileReader(FILE_LOCATION))) {
             line = br.readLine();
 
