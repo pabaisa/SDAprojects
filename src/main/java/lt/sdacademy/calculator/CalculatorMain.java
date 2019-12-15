@@ -15,13 +15,6 @@ public class CalculatorMain {
             double firstNumb = getNum("Ivesk pirma skaiciu");
             double secondNumb = getNum("Ivesk antra skaiciu");
 
-
-            /*System.out.println("Ivesk pirma skaiciu");
-            int firstNumb = numberScanner.nextInt();
-
-            System.out.println("Ivesk antra skaiciu");
-            int secondNumb = numberScanner.nextInt();*/
-
             System.out.println("Koki veiksma norite atlikti: + - / *");
             String action = actionScanner.nextLine();
 

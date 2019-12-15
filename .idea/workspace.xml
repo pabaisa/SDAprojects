@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4d02c6b-fcfe-41e8-9605-2587f0f2d190" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="f4d02c6b-fcfe-41e8-9605-2587f0f2d190" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalstesting/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bandymas/META-INF/bandymas.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/calss_works/META-INF/calss_works.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/calculator/CalculatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/calculator/CalculatorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/calss_works.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/calculator/CalculatorMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lt/sdacademy/calculator/CalculatorMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/game/GameMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/game/GameMain.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +32,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="modesto-namu-darbai" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -30,121 +50,138 @@
   </component>
   <component name="ProjectId" id="1SkvXw8oOO0XsyEIv1meMt5HUsG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\main\java" />
-      <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\test\resources\diver" />
-      <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\lt\sdacademy\fundamentals\file_read" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lt.sdacademy.fundamentals.file_read.bufferedrader" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lt.sdacademy.fundamentals.enumerators" />
       <recent name="lt.sdacademy.fundamentalscoding.practicalexercises.book_author" />
       <recent name="lt.sdacademy.fundamentals.loop.for_each" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="lt.sdacademy.fundamentals.file_read.bufferedrader" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\main\java" />
+      <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\test\resources\diver" />
+      <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\lt\sdacademy\fundamentals\file_read" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.GameMain">
-    <configuration name="BookAuthorsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentalscoding.practicalexercises.bookdictionary.BookAuthorsMain" />
+  <component name="RunManager" selected="JUnit.Example6">
+    <configuration name="Example3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.sdacademy.fundamentalscoding.practicalexercises.bookdictionary.model.*" />
+          <option name="PATTERN" value="fundamentals.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="fundamentals.basics" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example3" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentals.enumerators.EnumClassMain" />
+    <configuration name="Example3.testAssertSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.sdacademy.fundamentals.enumerators.*" />
+          <option name="PATTERN" value="fundamentals.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="fundamentals.basics" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example3" />
+      <option name="METHOD_NAME" value="testAssertSame" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentals.file_write.Example1" />
+    <configuration name="Example4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.sdacademy.fundamentals.file_write.*" />
+          <option name="PATTERN" value="fundamentals.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="fundamentals.basics" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example4" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentalscoding.practicalexercises.game.GameMain" />
+    <configuration name="Example5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.sdacademy.fundamentalscoding.practicalexercises.game.*" />
+          <option name="PATTERN" value="fundamentals.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="fundamentals.basics" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example5" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrianglesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentalscoding.practicalexercises.triangles.TrianglesMain" />
+    <configuration name="Example6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.sdacademy.fundamentalscoding.practicalexercises.triangles.*" />
+          <option name="PATTERN" value="fundamentals.basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="fundamentals.basics" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example6" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GameMain" />
-        <item itemvalue="Application.TrianglesMain" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.EnumClassMain" />
-        <item itemvalue="Application.BookAuthorsMain" />
+        <item itemvalue="JUnit.Example6" />
+        <item itemvalue="JUnit.Example5" />
+        <item itemvalue="JUnit.Example4" />
+        <item itemvalue="JUnit.Example3.testAssertSame" />
+        <item itemvalue="JUnit.Example3" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -157,6 +194,28 @@
       <option name="presentableId" value="Default" />
       <updated>1572120451297</updated>
     </task>
+    <task id="LOCAL-00001" summary="Working example">
+      <created>1575580886854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575580886854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pakeitimas nr1">
+      <created>1575581246995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575581246995</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pakeitimas nr2">
+      <created>1575581263342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575581263342</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,10 +223,68 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working example" />
+    <MESSAGE value="pakeitimas nr1" />
+    <MESSAGE value="pakeitimas nr2" />
+    <option name="LAST_COMMIT_MESSAGE" value="pakeitimas nr2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576311911923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1576311911923" />
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1576401258759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576401258759" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1576401258759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576401258759" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1576401258758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576401258758" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1576401258759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576401258759" />
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom" timestamp="1576400171670">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576400171670" />
+    <state width="1323" height="219" key="GridCell.Tab.1.center" timestamp="1576400171669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576400171669" />
+    <state width="1323" height="219" key="GridCell.Tab.1.left" timestamp="1576400171668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576400171668" />
+    <state width="1323" height="219" key="GridCell.Tab.1.right" timestamp="1576400171669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576400171669" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1576399432555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576399432555" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1576392641620">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576392641620" />
+    <state x="390" y="125" width="611" height="478" key="find.popup" timestamp="1576331568066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="125" width="611" height="478" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1576331568066" />
   </component>
 </project>
