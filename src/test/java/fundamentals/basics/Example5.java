@@ -1,6 +1,6 @@
 package fundamentals.basics;
 
-import lt.sdacademy.fundamentalstesting.Calculator;
+import lt.sdacademy.fundamentalstesting.calculator.Calculator;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ExpectedException;

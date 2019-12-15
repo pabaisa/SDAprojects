@@ -1,4 +1,4 @@
-package lt.sdacademy.fundamentalstesting;
+package lt.sdacademy.fundamentalstesting.calculator;
 
 public class Calculator {
     public int divide(int firstNum, int secondNum){

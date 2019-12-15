@@ -1,6 +1,6 @@
 package fundamentals.basics;
 
-import lt.sdacademy.fundamentalstesting.Calculator;
+import lt.sdacademy.fundamentalstesting.calculator.Calculator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d02c6b-fcfe-41e8-9605-2587f0f2d190" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalstesting/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalstesting/fridge/Fridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalstesting/fridge/NoSuchItemExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalstesting/temperatureCelciusConverter/FahrenheitCelsiusConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/assertj/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/fridge/FoodTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/mockito/Mockito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/temperatureCelciusConverter/TestTemperatureCelciusConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/bandymas/META-INF/bandymas.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/calss_works/META-INF/calss_works.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/calculator/CalculatorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/calculator/CalculatorMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/calss_works.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/calculator/CalculatorMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lt/sdacademy/calculator/CalculatorMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/game/GameMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/game/GameMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calss_works.iml" beforeDir="false" afterPath="$PROJECT_DIR$/calss_works.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalstesting/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalstesting/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fundamentals/basics/Example5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -84,78 +85,78 @@
       <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\lt\sdacademy\fundamentals\file_read" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Example6">
-    <configuration name="Example3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestTemperatureCelciusConverter">
+    <configuration name="Example1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentals.basics.*" />
+          <option name="PATTERN" value="fundamentals.assertj.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fundamentals.basics" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example3" />
+      <option name="PACKAGE_NAME" value="fundamentals.assertj" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.assertj.Example1" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3.testAssertSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FoodTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentals.basics.*" />
+          <option name="PATTERN" value="fundamentals.fridge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fundamentals.basics" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example3" />
-      <option name="METHOD_NAME" value="testAssertSame" />
+      <option name="PACKAGE_NAME" value="fundamentals.fridge" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.fridge.FoodTesting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoodTesting.testFridgeSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calss_works" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentals.fridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fundamentals.fridge" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.fridge.FoodTesting" />
+      <option name="METHOD_NAME" value="testFridgeSize" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Mockito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentals.basics.*" />
+          <option name="PATTERN" value="fundamentals.mockito.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fundamentals.basics" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example4" />
+      <option name="PACKAGE_NAME" value="fundamentals.mockito" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.mockito.Mockito" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestTemperatureCelciusConverter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentals.basics.*" />
+          <option name="PATTERN" value="fundamentals.temperatureCelciusConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fundamentals.basics" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example5" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="calss_works" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fundamentals.basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="fundamentals.basics" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.basics.Example6" />
+      <option name="PACKAGE_NAME" value="fundamentals.temperatureCelciusConverter" />
+      <option name="MAIN_CLASS_NAME" value="fundamentals.temperatureCelciusConverter.TestTemperatureCelciusConverter" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Example6" />
-        <item itemvalue="JUnit.Example5" />
-        <item itemvalue="JUnit.Example4" />
-        <item itemvalue="JUnit.Example3.testAssertSame" />
-        <item itemvalue="JUnit.Example3" />
+        <item itemvalue="JUnit.TestTemperatureCelciusConverter" />
+        <item itemvalue="JUnit.FoodTesting.testFridgeSize" />
+        <item itemvalue="JUnit.FoodTesting" />
+        <item itemvalue="JUnit.Example1" />
+        <item itemvalue="JUnit.Mockito" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575581263342</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Testavimas">
+      <created>1576401436255</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576401436255</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,29 +243,38 @@
     <MESSAGE value="Working example" />
     <MESSAGE value="pakeitimas nr1" />
     <MESSAGE value="pakeitimas nr2" />
-    <option name="LAST_COMMIT_MESSAGE" value="pakeitimas nr2" />
+    <MESSAGE value="Testavimas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testavimas" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576409508575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1576409508575" />
     <state x="308" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576311911923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="308" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1576311911923" />
-    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1576401258759">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1576401432837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576401258759" />
-    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1576401258759">
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576401432837" />
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1576413780386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576401258759" />
-    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1576401258758">
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576413780386" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1576413780386">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576401258758" />
-    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1576401258759">
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576413780386" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1576413780385">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576401258759" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576413780385" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1576413780386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576413780386" />
     <state width="1323" height="219" key="GridCell.Tab.1.bottom" timestamp="1576400171670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -274,10 +291,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576400171669" />
-    <state x="186" y="9" key="SettingsEditor" timestamp="1576399432555">
+    <state x="186" y="9" key="SettingsEditor" timestamp="1576403345475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576399432555" />
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576403345475" />
     <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1576392641620">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
