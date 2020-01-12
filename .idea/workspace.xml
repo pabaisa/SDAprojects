@@ -2,10 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d02c6b-fcfe-41e8-9605-2587f0f2d190" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algoritmsanddatastructure/GreatestCommonDivider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentalstesting/tdd/Euro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fundamentals/tdd/EuroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/collections/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/collections/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/collections/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/abstractexample/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/abstractexample/AnimalsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/abstractexample/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/abstractexample/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/animals/AnimalsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/example1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/example1/ExampleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/example1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/example2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/example2/ExampleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/example2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/exampleworkinclass/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/exampleworkinclass/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/exampleworkinclass/RightAngleRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/exampleworkinclass/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/exampleworkinclass/ShapeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/object/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/object/Pocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algoritmsanddatastructure/algorithms/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algoritmsanddatastructure/algorithms/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algoritmsanddatastructure/algorithms/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algoritmsanddatastructure/datastructure/stack/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algoritmsanddatastructure/datastructure/stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassExample3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algoritmsanddatastructure/GreatestCommonDivider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/algoritmsanddatastructure/algorithms/GreatestCommonDivider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/calss_works-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/calculator/CalculatorMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/arrays/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/arrays/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/arrays/Example3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/controlflow/ifelse/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/controlflow/ifelse/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/controlflow/ifelse/Example3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/controlflow/switchcase/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/date_time/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/date_time/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/enumerators/EnumClassExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/enumerators/EnumClassExample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/enumerators/EnumClassMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_read/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_read/bufferedrader/BufferedReaderMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_read/filesreader/FilesReaderMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_read/scanner/ScannerExampelMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/file_write/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/do_while/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/do_while/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/for_each/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/for_each/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/for_each/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/for_iterator/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/while_loop/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/loop/while_loop/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/object_oriented/bicycle/Bicycle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/object_oriented/bicycle/BicycleMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/object_oriented/room/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/object_oriented/room/RoomMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/regex/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentals/varargs/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/avaragecalulator/AvarageCalculateMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/bookdictionary/BookAuthorsMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/bookdictionary/model/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/bookdictionary/model/BookAuthor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/bookdictionary/util/BookParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/circle/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/circle/CircleMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/factorial/FactorialMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/game/GameMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/maxvalue/MaxValueMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/reversetxt/ReversText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/reversetxt/StringBuilderMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/TriangleType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/triangles/TrianglesMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/windseed/WindSpeedMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/worker/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/fundamentalscoding/practicalexercises/worker/WorkerMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/person/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/person/UserInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lt/sdacademy/sandbox/SandBoxMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.java.selenium.SeleniumTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.java.selenium.SeleniumTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/diver/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/java/selenium/SeleniumTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +143,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/abstractexample" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -62,7 +154,13 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="lt.sdacademy.fundamentals.file_read.bufferedrader" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\main\java\lt\sdacademy\advancefeatures\inhertens\abstractexample" />
+      <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\main\java\lt\sdacademy\advancefeatures\inhertens\example2" />
+      <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\main\java\lt\sdacademy\advancefeatures\inhertens" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lt.sdacademy.advancefeatures.collections" />
       <recent name="lt.sdacademy.fundamentals.enumerators" />
       <recent name="lt.sdacademy.fundamentalscoding.practicalexercises.book_author" />
       <recent name="lt.sdacademy.fundamentals.loop.for_each" />
@@ -73,13 +171,13 @@
       <recent name="C:\Users\Modestas\IdeaProjects\bandymas\src\lt\sdacademy\fundamentals\file_read" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GreatestCommonDivider">
-    <configuration name="GreatestCommonDivider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.algoritmsanddatastructure.GreatestCommonDivider" />
+  <component name="RunManager" selected="Application.ShapeMain">
+    <configuration name="AnimalsMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advancefeatures.inhertens.abstractexample.AnimalsMain" />
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lt.sdacademy.algoritmsanddatastructure.*" />
+          <option name="PATTERN" value="lt.sdacademy.advancefeatures.inhertens.abstractexample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,76 +185,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EuroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EnumClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.fundamentals.enumerators.EnumClassMain" />
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentals.tdd.*" />
+          <option name="PATTERN" value="lt.sdacademy.fundamentals.enumerators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fundamentals.tdd" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.tdd.EuroTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EuroTest.testDivision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advancefeatures.collections.ListExample" />
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentals.tdd.*" />
+          <option name="PATTERN" value="lt.sdacademy.advancefeatures.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fundamentals.tdd" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.tdd.EuroTest" />
-      <option name="METHOD_NAME" value="testDivision" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EuroTest.testEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advancefeatures.collections.MapExample" />
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentals.tdd.*" />
+          <option name="PATTERN" value="lt.sdacademy.advancefeatures.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fundamentals.tdd" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.tdd.EuroTest" />
-      <option name="METHOD_NAME" value="testEquality" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EuroTest.testSubtraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShapeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lt.sdacademy.advancefeatures.inhertens.exampleworkinclass.ShapeMain" />
       <module name="calss_works" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fundamentals.tdd.*" />
+          <option name="PATTERN" value="lt.sdacademy.advancefeatures.inhertens.exampleworkinclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="fundamentals.tdd" />
-      <option name="MAIN_CLASS_NAME" value="fundamentals.tdd.EuroTest" />
-      <option name="METHOD_NAME" value="testSubtraction" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GreatestCommonDivider" />
-        <item itemvalue="JUnit.EuroTest.testDivision" />
-        <item itemvalue="JUnit.EuroTest.testSubtraction" />
-        <item itemvalue="JUnit.EuroTest.testEquality" />
-        <item itemvalue="JUnit.EuroTest" />
+        <item itemvalue="Application.ShapeMain" />
+        <item itemvalue="Application.AnimalsMain (1)" />
+        <item itemvalue="Application.EnumClassMain" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.ListExample" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576413952771</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Testavimas">
+      <created>1578728556514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578728556514</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,65 +336,102 @@
     <option name="LAST_COMMIT_MESSAGE" value="Testavimas" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576409508575">
+    <state x="452" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578731177093">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="452" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1576409508575" />
-    <state x="308" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576311911923">
+    <state x="452" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1578731177093" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1578830853368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1576311911923" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578830853368" />
+    <state x="308" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578816596436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1578816596436" />
     <state x="821" y="42" width="330" height="583" key="#xdebugger.evaluate" timestamp="1576416712837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="821" y="42" width="330" height="583" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1576416712837" />
-    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1576413950502">
+    <state x="344" y="0" key="CommitChangelistDialog2" timestamp="1578728554828">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576413950502" />
-    <state width="1323" height="219" key="GridCell.Tab.0.bottom" timestamp="1576418531453">
+    <state x="344" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578728554828" />
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom" timestamp="1578836044438">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576418531453" />
-    <state width="1323" height="219" key="GridCell.Tab.0.center" timestamp="1576418531453">
+    <state width="1323" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578836044438" />
+    <state width="1323" height="226" key="GridCell.Tab.0.center" timestamp="1578836044437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576418531453" />
-    <state width="1323" height="219" key="GridCell.Tab.0.left" timestamp="1576418531453">
+    <state width="1323" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578836044437" />
+    <state width="1323" height="226" key="GridCell.Tab.0.left" timestamp="1578836044436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576418531453" />
-    <state width="1323" height="219" key="GridCell.Tab.0.right" timestamp="1576418531453">
+    <state width="1323" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578836044436" />
+    <state width="1323" height="226" key="GridCell.Tab.0.right" timestamp="1578836044437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576418531453" />
-    <state width="1323" height="219" key="GridCell.Tab.1.bottom" timestamp="1576418531453">
+    <state width="1323" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578836044437" />
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom" timestamp="1578823687029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576418531453" />
-    <state width="1323" height="219" key="GridCell.Tab.1.center" timestamp="1576418531453">
+    <state width="1323" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578823687029" />
+    <state width="1323" height="219" key="GridCell.Tab.1.center" timestamp="1578823687029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1576418531453" />
-    <state width="1323" height="219" key="GridCell.Tab.1.left" timestamp="1576418531453">
+    <state width="1323" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1578823687029" />
+    <state width="1323" height="219" key="GridCell.Tab.1.left" timestamp="1578823687029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1576418531453" />
-    <state width="1323" height="219" key="GridCell.Tab.1.right" timestamp="1576418531453">
+    <state width="1323" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1578823687029" />
+    <state width="1323" height="219" key="GridCell.Tab.1.right" timestamp="1578823687029">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1576418531453" />
+    <state width="1323" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578823687029" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1576403345475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576403345475" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1576392641620">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1578814235921">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576392641620" />
-    <state x="390" y="125" width="611" height="478" key="find.popup" timestamp="1576331568066">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578814235921" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1578812001630">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="125" width="611" height="478" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1576331568066" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578812001630" />
+    <state x="390" y="125" width="611" height="478" key="find.popup" timestamp="1578834245847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="125" width="611" height="478" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1578834245847" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1578819847354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1578819847354" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578832504870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578832504870" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/algoritmsanddatastructure/datastructure/stack/Main.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/advancefeatures/inhertens/animals/AnimalsMain.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lt/sdacademy/fundamentals/enumerators/EnumClassMain.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
