@@ -2,7 +2,7 @@ package lt.sdacademy.advancefeatures.interfaces.example3_inclass;
 
 import java.math.BigDecimal;
 
-public abstract class Data implements FindRichest {
+public class Data implements FindRichest {
     protected String name;
     protected BigDecimal amount;
 
