@@ -1,6 +1,6 @@
 package lt.sdacademy.advancefeaturescoding.deliverie;
 
-public class Company extends Location{
+public class Company extends Location {
 
     private Gadget gadget;
 
